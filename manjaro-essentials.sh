@@ -11,7 +11,7 @@ sudo pacman -S fakeroot binutils trizen
 clear
 
 echo Installing Important development tools
-sudo pacman -S code tk gimp
+sudo pacman -S code tk gimp kdenlive
 clear
 
 echo Finally installing neofetch and htop 
